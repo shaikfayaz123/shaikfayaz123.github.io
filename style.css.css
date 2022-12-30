@@ -1,0 +1,17 @@
+body {
+	background-image: url(https://unsplash.com/photos/k9PylqI4n00);
+}
+h2 {
+	color: darkred;
+	text-align: center;
+	border: 5px dashed green;
+}
+
+p {
+	color: blue;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
